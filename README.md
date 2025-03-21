@@ -2,6 +2,8 @@
 
 Dies ist eine Replik einer **256KB EPROM-Karte** für den Commodore C64.
 
+![](https://codeberg.org/diwou/Brainy_-_256k_Cartridge_for_C64/raw/branch/main/Images/brainy256.jpg)
+
 Die Zeitschrift **"64'er"** fasste das Projekt folgendermaßen zusammen:
 
 > **"Brainy ist eine neue Generation von EPROM-Modulkarten.  
